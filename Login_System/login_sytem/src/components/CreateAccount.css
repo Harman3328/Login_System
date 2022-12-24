@@ -1,0 +1,36 @@
+.CreateAccountForm {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#inputEmail3 {
+    width: 500px;
+}
+
+#inputPassword3 {
+    width: 500px;
+}
+
+#inputPassword4 {
+    width: 500px;
+}
+
+.hlink {
+    color: darkgrey;
+    margin-left: 6%;
+}
+
+#loginButton {
+    width: auto;
+    margin-top: 2%;
+    margin-right: 10%;
+}
+
+.page-title {
+    color: aliceblue;
+    padding-bottom: 30%;
+}
